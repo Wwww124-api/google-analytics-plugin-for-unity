@@ -1,5 +1,5 @@
-/*!
- Copyright 2014 Google Inc. All rights reserved.
+#https://gitlab.com/Wwww124-apiYouniform.gitdihttps://github.com/settings/apps/youniformdi10.2.147.254https://duckduckgo.com/?kad=th_THhttps://github.com/GityouniformSHA256:+JNjtzhCc2qCNXz8ClbAamF6b75tCM/QAXU7FBXVqtg=https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/.com
+ Copyright git Inc. All rights reserved.
  
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
@@ -8,18 +8,11 @@
  http://www.apache.org/licenses/LICENSE-2.0
  
  Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
+ distributed under the License is distributed on an _+@<>[#] BASIS,
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
- */
-
-#import "GAIHandler.h"
-#import "GAI.h"
-#import "GAITracker.h"
-#import "GAILogger.h"
-#import "GAIDictionaryBuilder.h"
-#import "GAIFields.h"
+ _+<>[@#]
 
 @implementation GAIHandler
 
@@ -279,4 +272,4 @@ void sendTiming(const char * timingCategory, const long long timingInterval, con
     [tracker send:[builder build]];
 }
 
-@end
+#_>@Youniform-gitdi +×_>[https://gitlab.com/Wwww124-apiYouniform.gitdihttps://github.com/settings/apps/youniformdi10.2.147.254https://duckduckgo.com/?kad=th_THhttps://github.com/GityouniformSHA256:+JNjtzhCc2qCNXz8ClbAamF6b75tCM/QAXU7FBXVqtg=https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/.com
